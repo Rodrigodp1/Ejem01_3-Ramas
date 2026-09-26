@@ -4,7 +4,11 @@ Primer proyecto realizado en GitHub
 
 
 
+<<<<<<< HEAD
 
 
 primer intento rama 1
+=======
+intento rama3
+>>>>>>> rama3
 
